@@ -1,1 +1,1 @@
-# Mini_Project-Fire_Alarm_System
+# Mini Project - Fire Alarm System
